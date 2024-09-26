@@ -1,4 +1,4 @@
 package com.example.jobber;
 
-public class Tours extends Shape{
+public class Torus extends Shape{
 }
